@@ -1,3 +1,3 @@
 # git-practice
 git rebase  pull用
-stash practice
+stash practice : tracked
